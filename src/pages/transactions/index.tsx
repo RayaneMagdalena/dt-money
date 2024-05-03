@@ -1,5 +1,9 @@
+import { Header } from "../../components/Header";
+
 export function Transactions() {
     return (
-        <div>oi</div>
+        <div>
+            <Header />
+        </div>
     )
 }
