@@ -1,28 +1,52 @@
 {
-    "transactions": [
-      {
-        "id": 1,
-        "description": "Desenvolvimento de site",
-        "type": "income",
-        "category": "Venda",
-        "price": 14000,
-        "createdAt": "2022-07-29T19:36:44.505Z"
-      },
-      {
-        "id": 2,
-        "description": "Hambúrguer",
-        "type": "outcome",
-        "category": "Alimentação",
-        "price": 60,
-        "createdAt": "2022-07-29T19:30:44.505Z"
-      },
-      {
-        "id": 3,
-        "description": "Curso",
-        "type": "outcome",
-        "category": "Educação",
-        "price": 1980,
-        "createdAt": "2022-07-29T19:24:44.505Z"
-      }
-    ]
-  }
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "kkkkk",
+      "price": 2222,
+      "category": "gjhghg",
+      "type": "outcome",
+      "createdAt": "2024-05-07T18:18:21.932Z",
+      "id": 4
+    },
+    {
+      "description": "banana",
+      "price": 2,
+      "category": "comida",
+      "type": "income",
+      "createdAt": "2024-05-07T18:49:00.886Z",
+      "id": 5
+    },
+    {
+      "description": "gdfg",
+      "price": 3434,
+      "category": "dfggf",
+      "type": "outcome",
+      "createdAt": "2024-05-07T21:56:21.509Z",
+      "id": 6
+    }
+  ]
+}
